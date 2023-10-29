@@ -1,3 +1,5 @@
+from data import service_data
+
 # 유료 구독 서비스 출력 함수
 def print_service():
     for category in service_data:
