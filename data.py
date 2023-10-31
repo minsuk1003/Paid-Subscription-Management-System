@@ -50,10 +50,6 @@ service_data = {
         "요기요 요기패스" : "https://i.namu.wiki/i/yoFGdJJpsAyKWNp7UPp6278NsgNF7KamCpvaK05OOdvIZ7xqJ5gIWy-ZDHzacfaYvg30XL-s_LDWjrmbsPELzi6_jbf9be0WR6iQ7CPBwlNRKDrOlsioOBH-FB5gCjcfIXBUjpsdfreacjBIUbaITA.svg",
     },
 
-    "오피스 프로그램" : {
-        "Microsoft 365" : "https://i.namu.wiki/i/l2lU5S75ZGx5_Z31xEQWBloPbBIjmNwQjjfEhyQYWIUxqwLp2i90J_WUBv5D3eXKUfuoYoN6mLeVN1n8LJU9uvui4HWxtpxxXeDRtkW4immb6Y6nHlGIa7rPyEpu2w4UfsIcEnQKmtzVVuucayxv6Q.svg"
-    },
-
     "전자책 대여 및 웹툰 서비스" : {
         "밀리의 서재" : "https://i.namu.wiki/i/KBi_5aDbViGw1LvHykJ1ZiYLPlaSIOmVa4RsSC2gjB6gwrQHK6w3bza58VyDSMIptUuwKxWD_hyVphwubr7ZPNwwgpK1M9NvCazi0sDSnxoLDty9jRC4kBLNftl0OCRRKtFU-nJWkq-yApNZqy1yXg.svg",
         "리디셀렉트" : "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAzIiBoZWlnaHQ9IjEyNSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=",
@@ -67,7 +63,7 @@ service_data = {
     },
 
     "음악 스트리밍 서비스" : {
-        "멜론" : "https://i.namu.wiki/i/EPQ-ptGsZYvgjxH1SPa4uxkFtTBI3HebbJjcvUkx-7oCo5aj7QtsanzjCev5l-2graYBmFZPpiUPC4sry3MTWgqwbR01Qe-WliCx4tVE4pOZxc1cXm7FieJKrn__wVzIDjdQ61WTjbvfYtgK63jWJA.svg",
+        "Melon" : "https://i.namu.wiki/i/EPQ-ptGsZYvgjxH1SPa4uxkFtTBI3HebbJjcvUkx-7oCo5aj7QtsanzjCev5l-2graYBmFZPpiUPC4sry3MTWgqwbR01Qe-WliCx4tVE4pOZxc1cXm7FieJKrn__wVzIDjdQ61WTjbvfYtgK63jWJA.svg",
         "Apple Music" : "https://i.namu.wiki/i/uhB3t6cVrZGtwP-Yq3tTcSNUUPhS57j107M6dMhEUMnFzFE95OSrQJLoa-vhFW2cprlyBIMSXBK4CCiiEW53UMzuFkS39oDmugxlwI9f45LyrrBXeWG97uSeErVd1b9x7bbv44T_Ldt51PmU575i7A.svg",
         "Spotify" : "https://i.namu.wiki/i/eEuQ4_ptsQ3YNPtJfcp8vEcuatgOvXWPOokvO1ue2YDNZnwiqAB16yTF-QNIkUjLYBxWnSM94ndMVJ_mD1gi5g.svg",
         "Bugs" : "https://i.namu.wiki/i/LG-rp6j2CuBHax0hYuG4L9Uenqbil6js8wfdMjHV_WXj16INeDo77pxmlVUUmoz-dBN3hHCGhGrDSFsBSHwAfs81BG1rnzMoGxLmZUNdiWBIRB7a2KTwnoLO6entIbNSQ25kWPEB82jae8zg1VRjhQ.svg",
